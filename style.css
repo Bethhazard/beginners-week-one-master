@@ -1,0 +1,33 @@
+body{
+  color: rgb(28,138,92);
+  font-family:arial;
+  margin:0px;
+}
+div {
+  min-height: 50VH;
+}
+h1,h2 {
+  text-align: center;
+}
+h1 {font-size:5em
+}
+img {
+  display:flex;
+  padding:70px;
+  margin:0 auto;
+  border-radius:130px;
+}
+li#lower {
+  margin-top:20%;
+}
+li#lowest {
+  margin-top:14%;
+}
+div.contrast {
+  background-color:rgb(5,23,98);
+  color:rgb(255,255,255);
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction:column;
+}
